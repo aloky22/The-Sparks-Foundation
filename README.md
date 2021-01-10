@@ -12,5 +12,7 @@ Dataset: http://bit.ly/w-data
 # Task-2 
 From the given ‘Iris’ dataset, predict the optimum number of clusters
 and represent it visually.
-● laguage Used  Python 
+
+● laguage Used  Python
+
 ● Dataset : https://bit.ly/3kXTdox
